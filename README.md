@@ -9,26 +9,18 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![PHP](https://shields.io)
-![Python](https://shields.io)
-![C#](https://shields.io)
-![MySQL](https://shields.io)
+<p align="left">
+  <img src="https://skillicons.dev" alt="Tecnologias" />
+</p>
 
----
-
-### 📊 Estatísticas no GitHub
-
-![Estatísticas do GitHub](https://vercel.app)
-
-![Linguagens mais usadas](https://vercel.app)
+* **Front-end:** HTML5, CSS3, JavaScript
+* **Back-end:** PHP, Python, C#
+* **Banco de Dados:** MySQL
 
 ---
 
 ### 📫 Onde me encontrar
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/rikelme-moreira-de-jesus-979b482b4)
-[![Instagram](https://shields.io)](https://www.instagram.com/rikelmeesxz)
-[![Gmail](https://shields.io)](mailto:rikelmemoreirajesus2008@gmail.com)
+* 💼 **LinkedIn:** [Rikelme Moreira de Jesus](https://linkedin.com)
+* 📸 **Instagram:** [@rikelmeesxz](https://www.instagram.com/rikelmeesxz)
+* 📧 **E-mail:** [rikelmemoreirajesus2008@gmail.com](mailto:rikelmemoreirajesus2008@gmail.com)
