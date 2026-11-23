@@ -9,9 +9,6 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<p align="left">
-  <img src="https://skillicons.dev" alt="Tecnologias" />
-</p>
 
 * **Front-end:** HTML5, CSS3, JavaScript
 * **Back-end:** PHP, Python, C#
@@ -24,3 +21,12 @@
 * 💼 **LinkedIn:** [Rikelme Moreira de Jesus](https://linkedin.com)
 * 📸 **Instagram:** [@rikelmeesxz](https://www.instagram.com/rikelmeesxz)
 * 📧 **E-mail:** [rikelmemoreirajesus2008@gmail.com](mailto:rikelmemoreirajesus2008@gmail.com)
+
+
+---
+
+### 🚀 Projetos em Destaque
+
+* **[Participar Ativamente](https://participar-ativamente.com)** — Plataforma web de cidadania em ação que permite aos moradores registrarem ocorrências urbanas, acompanharem o status em tempo real e denunciarem irregularidades na cidade.
+  * *Tecnologias:* PHP, MySQL, HTML5, CSS3, JavaScript.
+  * 
