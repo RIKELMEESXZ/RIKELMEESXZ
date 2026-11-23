@@ -9,31 +9,26 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="35" width="45" src="https://githubusercontent.com">
-  <img align="center" alt="CSS3" height="35" width="45" src="https://githubusercontent.com">
-  <img align="center" alt="JavaScript" height="35" width="45" src="https://githubusercontent.com">
-  <img align="center" alt="PHP" height="35" width="45" src="https://githubusercontent.com">
-  <img align="center" alt="Python" height="35" width="45" src="https://githubusercontent.com">
-  <img align="center" alt="C#" height="35" width="45" src="https://githubusercontent.com">
-  <img align="center" alt="MySQL" height="35" width="45" src="https://githubusercontent.com">
-</div>
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+![PHP](https://shields.io)
+![Python](https://shields.io)
+![C#](https://shields.io)
+![MySQL](https://shields.io)
 
 ---
 
 ### 📊 Estatísticas no GitHub
 
-<div>
-  <a href="https://github.com">
-    <img height="160em" src="https://vercel.app"/>
-    <img height="160em" src="https://vercel.app"/>
-  </a>
-</div>
+![Estatísticas do GitHub](https://vercel.app)
+
+![Linguagens mais usadas](https://vercel.app)
 
 ---
 
 ### 📫 Onde me encontrar
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/rikelme-moreira-de-jesus-979b482b4)
 [![Instagram](https://shields.io)](https://www.instagram.com/rikelmeesxz)
 [![Gmail](https://shields.io)](mailto:rikelmemoreirajesus2008@gmail.com)
